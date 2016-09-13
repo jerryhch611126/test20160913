@@ -73,7 +73,7 @@
       <div class="Wrap">
         <img src="uploads/news/news_01.jpg" alt="" class="NewsImg">
         <p class="NewsDate">2016/08/18</p>
-        <p class="NewsTitle"><a href="#">中秋好禮限量預購中</a></p>
+        <p class="NewsTitle"><a href="#">號外!!中秋好禮限量預購中</a></p>
       </div>
     </div>
     <!-- 新聞區塊 end-->
